@@ -1,0 +1,20 @@
+﻿  MyForm.cpp
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(113,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(113,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(116,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(117,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(216,13): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(169,16): warning C4101: v_new: неиспользованная локальная переменная
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(321,13): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(268,16): warning C4101: v_new: неиспользованная локальная переменная
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(45,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(71,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(115,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(141,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(190,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(216,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(260,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(286,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MpiMethod.vcxproj -> C:\Users\1\source\repos\MpiMethod\x64\Debug\MpiMethod.exe

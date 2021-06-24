@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(109,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(109,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(112,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(113,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(213,13): warning C4244: =: преобразование "time_t" в "double", возможна потеря данных
+C:\Users\1\source\repos\MpiMethod\MpiMethod\functions.h(165,16): warning C4101: v_new: неиспользованная локальная переменная
+C:\Users\1\source\repos\MpiMethod\MpiMethod\MyForm.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MpiMethod.vcxproj -> C:\Users\1\source\repos\MpiMethod\x64\Release\MpiMethod.exe
